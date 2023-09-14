@@ -1,0 +1,46 @@
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.AssemblyReference.cache
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\DesktopApp\DesktopApp\obj\Debug\MainWindow.g.cs
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\DesktopApp\DesktopApp\obj\Debug\App.g.cs
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\DesktopApp\DesktopApp\obj\Debug\DesktopApp_MarkupCompile.cache
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\DesktopApp\DesktopApp\obj\Debug\DesktopApp_MarkupCompile.lref
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\DesktopApp\DesktopApp\bin\Debug\DesktopApp.exe.config
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\DesktopApp\DesktopApp\bin\Debug\DesktopApp.exe
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\DesktopApp\DesktopApp\bin\Debug\DesktopApp.pdb
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\DesktopApp\DesktopApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\DesktopApp\DesktopApp\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\DesktopApp\DesktopApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\DesktopApp\DesktopApp\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\DesktopApp\DesktopApp\obj\Debug\MainWindow.baml
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\DesktopApp\DesktopApp\obj\Debug\DesktopApp.g.resources
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Properties.Resources.resources
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.GenerateResource.cache
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.CopyComplete
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\DesktopApp\DesktopApp\obj\Debug\DesktopApp.exe
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\DesktopApp\DesktopApp\obj\Debug\DesktopApp.pdb
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\DesktopApp\DesktopApp\obj\Debug\DataWindow.g.cs
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\DesktopApp\DesktopApp\obj\Debug\DataWindow.baml
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\1 ЧАСТЬ\DesktopApp\DesktopApp\bin\Debug\DesktopApp.exe.config
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\1 ЧАСТЬ\DesktopApp\DesktopApp\bin\Debug\DesktopApp.exe
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\1 ЧАСТЬ\DesktopApp\DesktopApp\bin\Debug\DesktopApp.pdb
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\1 ЧАСТЬ\DesktopApp\DesktopApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\1 ЧАСТЬ\DesktopApp\DesktopApp\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\1 ЧАСТЬ\DesktopApp\DesktopApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\1 ЧАСТЬ\DesktopApp\DesktopApp\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\1 ЧАСТЬ\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.AssemblyReference.cache
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\1 ЧАСТЬ\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\1 ЧАСТЬ\DesktopApp\DesktopApp\obj\Debug\DataWindow.g.cs
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\1 ЧАСТЬ\DesktopApp\DesktopApp\obj\Debug\MainWindow.g.cs
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\1 ЧАСТЬ\DesktopApp\DesktopApp\obj\Debug\App.g.cs
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\1 ЧАСТЬ\DesktopApp\DesktopApp\obj\Debug\DesktopApp_MarkupCompile.cache
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\1 ЧАСТЬ\DesktopApp\DesktopApp\obj\Debug\DesktopApp_MarkupCompile.lref
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\1 ЧАСТЬ\DesktopApp\DesktopApp\obj\Debug\DataWindow.baml
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\1 ЧАСТЬ\DesktopApp\DesktopApp\obj\Debug\MainWindow.baml
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\1 ЧАСТЬ\DesktopApp\DesktopApp\obj\Debug\DesktopApp.g.resources
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\1 ЧАСТЬ\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Properties.Resources.resources
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\1 ЧАСТЬ\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.GenerateResource.cache
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\1 ЧАСТЬ\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\1 ЧАСТЬ\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.CopyComplete
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\1 ЧАСТЬ\DesktopApp\DesktopApp\obj\Debug\DesktopApp.exe
+C:\Users\Ruslan\OneDrive\Рабочий стол\плешка\3 КУРС\УЧЕБНАЯ ПРАКТИКА СЕВАСТЬЯНОВ\1 ЧАСТЬ\DesktopApp\DesktopApp\obj\Debug\DesktopApp.pdb
